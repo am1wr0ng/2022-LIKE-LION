@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		
+		<meta charset="UTF-8">
+    	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+    	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@200;300;400;500;600;700;900&display=swap">
+
+        <title>황혜정's 자소서</title>
+        <link rel="stylesheet" href="220410.css">
+
+	</head>
+	<body>
+		<div class=mainbox>
+			<div class = "name">
+				<h1>
+					황혜정🦁
+				</h1>
+				<p class = "name_contents">
+					멋쟁이 사자처럼 in 성신여대 10기 아기사자 
+				</p>
+			</div>
+			<div>
+				<section>
+					<h2 class = introduce>
+						저에 대하여 소개합니다. 
+					</h2>
+					<p class = "introduce_contents">
+						안녕하세요 저는 멋쟁이 사자처럼 in 성신여대 10기 아기사자 황혜정입니다 멋사라는 좋은 동아리에서
+						활동할 수 있게 되어 기쁩니다 멋사 활동을 통해 한층 더 성장하는 기회가 되었으면 좋겠습니다 
+					</p>
+				</section>
+
+				<section>
+					<h2 class = EXPERIENCE>
+						EXPERIENCE 
+					</h2>
+					<div class="float-wrap">
+						<p class="title-text">AWESOME PROGRAMMING COMAPNY</p>
+						<p class="year-text"> 2022 </p>
+					</div>
+					<p class="desc-text">Graphic Design, Editorial Design</p>
+				</section>
+
+				<section>
+					<h2 class = ACTIVITIES>
+						ACTIVITIES
+					</h2>
+					<div class="float-wrap">
+						<p class="title-text"> NAVER BACK-END WEB DEVELOPER Volunteer </p>
+						<p class="year-text"> 2020 - Now </p>
+					</div>
+						<p class="desc-text">Front-End Web Developer</p>
+						<p class="desc-subtext">HTML/CSS,JS,React,...</p>
+					
+				</section>
+
+				<section>
+					<h2 class = EDUCATIONS>
+						EDUCATIONS 
+					</h2>
+					<div class="float-wrap">
+						<p class="title-text">SUNGSHIN WOMENS UNIV.</p>
+						<p class="year-text">2015 - 2018</p>
+					</div>
+						<p class="desc-text">UI/UX Designer</p>
+						<p class="desc-subtext">Web design</p>
+				</section>
+
+				<section>
+					<h2 class = AWARDS>
+						AWARDS 
+					</h2>
+					<div class="float-wrap">
+						<p class="title-text">BEST DEVELOPER 2023</p>
+						<p class="year-text">2023</p>
+					</div>
+				</section>
+
+			</div>
+		</div>
+	</div>
+		<footer>
+			Copyright Hwang HyeJeong ALL RIGHT RESERVED
+		</footer>
+	</body>
+<html>
